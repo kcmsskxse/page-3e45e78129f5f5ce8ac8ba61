@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "1fbcb200274230770864801a",
+  "owner": "kcmsskxse",
+  "repo": "page-3e45e78129f5f5ce8ac8ba61",
+  "title": "小樱的花园",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3e45e78129f5f5ce8ac8ba61",
+      "a": "小樱的花园",
+      "b": "",
+      "entity": "小樱的花园",
+      "brand": "小樱的花园",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cf0fb484f5d38d5e2472875371197d47edceabda4a32fec2097a0151656b8a21",
+      "content": {
+        "keyword1": "小樱的花园",
+        "keyword2": "",
+        "primary_entity": "小樱的花园",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小樱的花园是一座写给普通读者的代理工具笔记,记录每月流量、设备数量与线路选择的取舍,以专栏作者的口吻讲述花园里的日常与故障排查。",
+          "AI_DESCRIPTION": "小樱的花园是一座写给普通读者的代理工具笔记,记录每月流量、设备数量与线路选择的取舍,以专栏作者的口吻讲述花园里的日常与故障排查。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#f7f1e6;color:#3b1d22;font-family:\"Songti SC\",\"Noto Serif SC\",\"Source Han Serif SC\",serif;line-height:1.7;-webkit-font-smoothing:antialiased}\na{color:#7a1f2b;text-decoration:none;border-bottom:1px solid rgba(122,31,43,.3)}\na:hover{color:#4a0f18;border-bottom-color:#4a0f18}\n.wrap{max-width:1080px;margin:0 auto;padding:0 24px}\n.brandstrip{background:#f7f1e6;border-bottom:1px solid rgba(122,31,43,.15);font-size:13px;letter-spacing:.08em}\n.brandstrip .wrap{display:flex;justify-content:space-between;padding:14px 24px;color:#7a1f2b;text-transform:uppercase}\n.hero{position:relative;min-height:88vh;display:flex;align-items:flex-end;background:#f7f1e6;overflow:hidden}\n.hero::before{content:\"\";position:absolute;left:0;right:0;top:0;height:14px;background:#7a1f2b}\n.hero::after{content:\"\";position:absolute;left:0;right:0;bottom:0;height:6px;background:#3b1d22}\n.hero-inner{position:relative;width:100%;padding:80px 0 90px}\n.hero-mark{font-size:14px;letter-spacing:.4em;color:#7a1f2b;text-transform:uppercase;margin-bottom:40px}\n.hero-mark span{display:inline-block;width:36px;height:1px;background:#7a1f2b;vertical-align:middle;margin-right:14px}\n.hero h1{font-family:\"Songti SC\",\"Noto Serif SC\",serif;font-weight:900;font-size:clamp(72px,18vw,260px);line-height:.9;letter-spacing:-.02em;color:#3b1d22;margin-bottom:32px}\n.hero h1 em{font-style:normal;color:#7a1f2b;display:block;font-size:.45em;letter-spacing:.18em;font-weight:400;margin-top:18px}\n.hero-byline{max-width:620px;font-size:17px;color:#3b1d22;border-left:3px solid #7a1f2b;padding:6px 0 6px 22px;margin-bottom:36px}\n.hero-meta{display:flex;gap:36px;font-size:13px;color:#7a1f2b;letter-spacing:.12em;text-transform:uppercase;flex-wrap:wrap}\n.hero-meta b{color:#3b1d22;font-weight:400;margin-right:8px}\nsection{padding:96px 0;border-top:1px solid rgba(122,31,43,.15)}\nsection h2{font-size:42px;font-weight:900;color:#3b1d22;margin-bottom:14px;letter-spacing:-.01em}\nsection h2 small{display:block;font-size:14px;font-weight:400;color:#7a1f2b;letter-spacing:.32em;text-transform:uppercase;margin-bottom:18px}\nsection h3{font-size:22px;color:#3b1d22;margin:28px 0 12px;font-weight:700}\nsection p{margin-bottom:14px;font-size:16px}\n.lede{font-size:19px;color:#3b1d22;max-width:720px}\n.intro-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:60px;margin-top:48px;align-items:start}\n@media(max-width:760px){.intro-grid{grid-template-columns:1fr;gap:32px}}\n.intro-grid aside{border-left:3px solid #7a1f2b;padding-left:22px;font-size:14px;color:#7a1f2b;letter-spacing:.04em}\n.intro-grid aside dt{font-weight:700;color:#3b1d22;margin-top:14px}\n.intro-grid aside dd{margin:4px 0 0;color:#3b1d22}\n.diary{display:grid;grid-template-columns:repeat(3,1fr);gap:32px;margin-top:48px}\n@media(max-width:760px){.diary{grid-template-columns:1fr}}\n.entry{border-left:3px solid #7a1f2b;padding:4px 0 4px 22px}\n.entry time{font-size:12px;letter-spacing:.28em;color:#7a1f2b;text-transform:uppercase;display:block;margin-bottom:10px}\n.entry h3{margin:0 0 10px;font-size:20px}\n.entry p{font-size:15px;color:#3b1d22}\n.plans{margin-top:56px;display:grid;grid-template-columns:repeat(3,1fr);gap:0;align-items:stretch;border-top:1px solid rgba(122,31,43,.3);border-bottom:1px solid rgba(122,31,43,.3)}\n@media(max-width:880px){.plans{grid-template-columns:1fr}}\n.plan{position:relative;padding:38px 30px 34px;border-right:1px solid rgba(122,31,43,.2);background:#fbf6ec;display:flex;flex-direction:column}\n.plan:last-child{border-right:none}</style><div class=\"brandstrip\">\n<div class=\"wrap\">\n<span>小樱的花园 / XIAOYING'S GARDEN</span>\n<span>VOL.04 · 二〇二四 季秋</span>\n</div>\n</div>\n\n<section class=\"hero\">\n<div class=\"wrap hero-inner\">\n<div class=\"hero-mark\"><span></span>本期专栏 · 关于代理工具的笔记</div>\n<h1>小樱的<br>花园<em>— A NOTEBOOK ABOUT PROXIES —</em></h1>\n<p class=\"hero-byline\">这是一座没有门票的花园,种着几行线路、几张计划表,以及我在每个月底整理流量的习惯。下面是第 04 期,我把过去三个月里被问得最多的几件事写下来,当作一份迟到的回应。</p>\n<div class=\"hero-meta\">\n<span><b>创刊</b>2023 春</span>\n<span><b>本期</b>04 / 12</span>\n<span><b>栏目</b>花园日志 · 计划表 · 问答</span>\n</div>\n</div>\n</section>\n\n<main>\n\n<section id=\"note\">\n<div class=\"wrap\">\n<h2><small>专栏作者式叙述</small>从一把剪刀开始的笔记</h2>\n<p class=\"lede\">我做这个花园,本来是为了给自己一个地方,把每次调线路、改节点、换客户端的过程老实记录下来。后来读者渐渐多了,笔记就长成了现在的样子——有故事,有计划表,也有常见问题。</p>\n\n<div class=\"intro-grid\">\n<div>\n<p>花园最早的角落是一个文件夹,里面只有三份文档:一份月度流量表、一份设备清单、一份我每次重装系统后都要重新写的\"客户端备忘\"。后来,我把这三份文档搬到了网站上,加了一些目录与说明,就成了你现在看到的这个版本。</p>\n<p>它不是产品手册,也不是营销页。它更像一本被翻开的小册子——你可以在 <a href=\"#plans\">计划表</a> 里找到每月流量的分配方式,在 <a href=\"#diary\">花园日志</a> 里读到最近一次换线路时发生了什么,在 <a href=\"#faq\">常见问题</a> 里翻到我被问过最多的那些事。</p>\n<p>我尽量写得诚实。如果你发现某段记录已经过期,可以在底部找到联系方式,我会逐条修订。</p>\n<h3>本期你会读到的</h3>\n<p>第 04 期共三章:第一章记述了一次被迫切换线路的小事故;第二章整理了过去三个月被读者问到的七件事;第三章是计划表,把三档流量、设备数和适用场景摊开在桌上,供你对照自己桌上的那本账本。</p>\n</div>\n<aside>\n<dl>\n<dt>创刊</dt>\n<dd>2023 年春,个人文件夹</dd>\n<dt>更新节奏</dt>\n<dd>每季一至两期,记录真实使用</dd>\n<dt>涉及范围</dt>\n<dd>客户端备忘、流量配比、故障排查</dd>\n<dt>面向读者</dt>\n<dd>被代理工具反复折腾过的普通人</dd>\n<dt>不涉及</dt>\n<dd>商业评测、未验证的节点排名</dd>\n</dl>\n</aside>\n</div>\n</div>\n</section>\n\n<section id=\"diary\">\n<div class=\"wrap\">\n<h2><small>花园日志</small>三个月里的三件小事</h2>\n<p class=\"lede\">下面三段不是教程,是日记。如果你只想看计划表,可以跳到下一节。</p>\n<div class=\"diary\">\n<article class=\"entry\">\n<time>十月 · 第 02 周</time>\n<h3>一次安静的断流</h3>\n<p>那天下雨,主路由的某一个节点连续三次掉线,我把它当作信号——把它从常用列表里挪到了备用区,顺手把备用的两条线路升到了常用。事后看,这次调整让我当月流量的中位时段缩短了大约两小时。</p>\n</article>\n<article class=\"entry\">\n<time>十一月 · 第 03 周</time>\n<h3>客户端的第三次重装</h3>\n<p>重装系统后,我总会重新写一遍配置。这一次,我把订阅地址、规则集和分流示例分别放在三个文件里,中间用注释说明顺序。后来有读者问起,我就把这份模板贴到了常见问题区,叫它\"重装三件套\"。</p>\n</article>\n<article class=\"entry\">\n<time>十二月 · 第 01 周</time>\n<h3>给计划表换了一种排版</h3>\n<p>原来的计划表是横排三列,读者反映手机上看不清。我把它改成了阶梯式,从基础到团队逐级抬高,每级只说一件事。改完之后,我自己在手机上也能一眼分辨自己在哪一档。</p>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<div class=\"wrap\">\n<h2><small>计划表</small>三档流量,像三层花圃</h2>\n<p class=\"lede\">我把流量、设备数与适用场景摆成三层台阶。你可以站上去比一比,再决定从哪一层开始。价格为本期参考,具体以结算页面为准。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<div class=\"plan-tier\">第一级 · 入门</div>\n<h3>基础版</h3>\n<div class=\"plan-price\">¥15<small>/月</small></div>\n<div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<a class=\"plan-cta\" href=\"#\">选择基础版</a>\n</article>\n<article class=\"plan featured\">\n<span class=\"plan-flag\">本期推荐</span>\n<div class=\"plan-tier\">第二级 · 主推</div>\n<h3>旗舰版</h3>\n<div class=\"plan-price\">¥35<small>/月</small></div>\n<div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n<a class=\"plan-cta\" href=\"#\">选择旗舰版</a>\n</article>\n<article class=\"plan\">\n<div class=\"plan-tier\">第三级 · 高阶</div>\n<h3>团队版</h3>\n<div class=\"plan-price\">¥85<small>/月</small></div>\n<div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<a class=\"plan-cta\" href=\"#\">选择团队版</a>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<div class=\"wrap\">\n<h2><small>常见问题</small>按主题归类的问答</h2>\n<p class=\"lede\">把过去三个月被问到最多的事分成四组:账户与计费、设备与客户端、流量与节点、故障与售后。每组下都附了具体场景的回应。</p>\n<div class=\"faq-groups\">\n\n<div class=\"faq-group\">\n<h3>壹 · 账户与计费</h3>\n<details>\n<summary>我可以随时从基础版升级到旗舰版吗?</summary>\n<p>可以。升级会在当期结算后立即生效,差价按当月剩余天数折算;若你已在年付周期内,也可以按比例抵扣下一期款项,具体以账户页面的提示为准。</p>\n</details>\n<details>\n<summary>年付和月付之间,哪种更划算?</summary>\n<p>从单价来看,年付的月均成本低于月付,差额用于覆盖运营的连续成本。但如果你还在试线路、试客户端,建议先用月付确认体验,再决定是否转年付,避免一次性投入过大。</p>\n</details>\n<details>\n<summary>是否支持退款?</summary>\n<p>本花园是笔记型站点,不直接处理交易;请以你购买时所在结算页的条款为准。如需协助对账,可在常见问题区提交工单,我会协助核对。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>贰 · 设备与客户端</h3>\n<details>\n<summary>我可以同时在多少台设备上登录?</summary>\n<p>基础版支持 3 台设备同时在线,旗舰版 5 台,团队版 20 台。这里的\"设备\"指账号维度下的并发会话数,与物理设备数量不完全等同。</p>\n</details>\n<details>\n<summary>重装系统后,客户端需要重新配置吗?</summary>\n<p>需要。建议按\"订阅地址、规则集、分流示例\"三件套的顺序逐项导入;具体步骤在花园日志的十二月条目里有完整记录,你可以照着做一遍。</p>\n</details>\n<details>\n<summary>支持哪些客户端?</summary>\n<p>本期笔记中讨论的客户端配置以通用协议为准;具体兼容性请以各客户端官方说明为准,我不在此处替任何客户端作背书。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>叁 · 流量与节点</h3>\n<details>\n<summary>每月 100GB / 300GB / 1000GB 是怎么估的?</summary>\n<p>这是我根据过去半年普通用户的使用习惯给出的参考值:日常浏览、轻度视频约占 60GB–120GB,加入中度流媒体后会上升到 200GB–350GB,重度下载或多设备长期在线会接近或超过 800GB。实际使用因人而异。</p>\n</details>\n<details>\n<summary>普通线路节点池和 VIP 节点有什么区别?</summary>\n<p>前者面向大多数场景,带宽充足但高峰期偶有波动;后者面向需要稳定高带宽的用户,接入方式与调度策略不同。具体差异以各套餐说明为准。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>肆 · 故障与售后</h3>\n<details>\n<summary>遇到节点掉线,我应该先做什么?</summary>\n<p>先看是不是本地网络的问题——重启路由器、切换一次 Wi-Fi 与流量,如果仍然掉线,再去检查订阅是否过期;最后,把现象记成时间戳与日志片段,方便后续排查。</p>\n</details>\n<details>\n<summary>工单的回复时间是多久?</summary>\n<p>基础版的工单按工作日处理;旗舰版提供 7×24 优先工单,通常数小时内会有初步回应;团队版则配备专属客户经理,具体响应时间以合同附件为准。</p>\n</details>\n<details>\n<summary>本期内容会过期吗?</summary>\n<p>会。计划表与节点说明都会随时间变化,我会在每期开头标注更新时间;若你读到的是被多次转发的旧版,建议回到本站查看当期原文。</p>\n</details>\n</div>\n\n</div>\n</div>\n</section>\n\n<section id=\"notes\">\n<div class=\"wrap\">\n<h2><small>编辑后记</small>写在第 04 期结尾的两行字</h2>\n<div class=\"notes\">\n<div class=\"note\">\n<h3>关于价格</h3>\n<p>本期价格为参考价,会随套餐调整而变化;最终金额以你购买时所在结算页的实时显示为准,我不在此处固化任何具体数字。</p>\n</div>\n<div class=\"note\">\n<h3>关于事实</h3>\n<p>本花园记录的是个人使用笔记,不引用未经验证的节点排名与第三方测评。如果你有更可靠的一手数据,欢迎通过底部联系方式寄给我。</p>\n</div>\n</div>\n</div>\n</section>\n\n<section class=\"epilogue\">\n<div class=\"wrap\">\n<h2><small>本期结语</small>把花园继续种下去</h2>\n<p>如果你读到了这里,谢谢。下一次更新大概在两个月后,我会把那段日子里学到的客户端配置与故障排查,依旧写在这一页的同一处位置。</p>\n<p class=\"signoff\">—— 小樱,于花园西侧的木桌前</p>\n</div>\n</section>\n\n</main>\n\n<nav class=\"bottomnav\" aria-label=\"底部导航\">\n<ul>\n<li><a href=\"#note\">专栏</a></li>\n<li><a href=\"#diary\">日志</a></li>\n<li><a href=\"#plans\">计划</a></li>\n<li><a href=\"#faq\">问答</a></li>\n<li><a href=\"#notes\">后记</a></li>\n</ul>\n</nav>\n\n<footer class=\"foot\">\n<div class=\"wrap\">小樱的花园 · 第 04 期 · 写给还在用代理工具的你</div>\n</footer>",
+          "hash": "5628c6000cbbbbb9ee51248294d7ca3031700dd707a507f3b8f6e9a59d2ec19b",
+          "seo": {
+            "title": "小樱的花园 | 一座关于代理节点的私人笔记",
+            "keywords": "小樱的花园,代理节点,网络工具,花园日志,流量计划",
+            "description": "小樱的花园是一座写给普通读者的代理工具笔记,记录每月流量、设备数量与线路选择的取舍,以专栏作者的口吻讲述花园里的日常与故障排查。"
+          },
+          "provider": "grok",
+          "model": "cb/minimax-m3",
+          "design": {
+            "no": "4857",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xtehtzd.cn",
+    "host": "p-6bedaadc4e.xtehtzd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "881a4314c9ba8055ade7028d16c0e9135cee4ec6dbd446134d7d67fb7fa49fe9",
+    "sitemap.xml": "e2204cb02291320667ad2f06cbd5ac4ec4e00bb06cf51473fb1c7df460c2c000",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e525cf20322a7ec6bf4027df15c1eb21e89f55843cad98efb1b3f676336046eb",
+    "robots.txt": "873f2d95786655876c3ff67396aaa1d425b9a9a921c401fd0e4f7b0e973d6d83",
+    "1e368084b78b3a02e0bb81952f12fd57.txt": "4cbf56c7c2a8264ba825de33c1add55fd243bf031988622041b75db84861e4eb"
+  },
+  "revision": "f09271c2d9db0667124a494f24be66b81366e2b975f638e45a98480f6ac2dbd8"
+}
